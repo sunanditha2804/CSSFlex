@@ -40,3 +40,5 @@ it is used to specify width to the html elements
 
 9) flex-grow
 it is used to specify grow/ expand proportion to a particular element
+
+10) flex-shrink
